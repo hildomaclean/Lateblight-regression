@@ -4,5 +4,9 @@ It is a script developed in python to estimate LB severity in potato.
 
 
 
-By Loayza
+By Loayza and Pujaico
+
+
+
+
 
