@@ -6,6 +6,8 @@ It is a script developed in python to estimate LB severity in potato.
 
 By Loayza and Pujaico
 
+Now, I have installed Notepad c++
+
 
 
 
